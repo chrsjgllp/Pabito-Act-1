@@ -1,2 +1,2 @@
-# Pabito-Act-1
-Activity 1 | Login and Register Form
+# Pabito-Act-2
+Activity 2 | Login and Register Form
